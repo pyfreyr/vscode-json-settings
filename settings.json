@@ -1,0 +1,26 @@
+{
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all",
+    "editor.wordWrap": "on",
+    "python.pythonPath": "C:\\Programs\\Python36\\python.exe",
+    "terminal.external.windowsExec": "C:\\Programs\\Git\\bin\\bash.exe",
+    "terminal.integrated.shell.windows": "C:\\Programs\\Git\\bin\\bash.exe",
+    "workbench.iconTheme": "material-icon-theme",
+    "python.terminal.activateEnvironment": false,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "autopep8",
+    "python.linting.flake8Args": ["--max-line-length=79"],
+    "python.linting.pylintEnabled": false,
+    "editor.rulers": [
+        79
+    ],
+    "git.enableSmartCommit": true,
+    "workbench.colorTheme": "Dracula",
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "extensions.ignoreRecommendations": false,
+    "workbench.statusBar.feedback.visible": false,
+    "files.exclude": {
+        "**/__pycache__": true
+    }
+}
